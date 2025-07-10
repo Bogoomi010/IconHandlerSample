@@ -20,8 +20,8 @@ taskkill /f /im explorer.exe
 start explorer.exe
 ```
 
-Re-register the DLL (when already registered)
-If the DLL is already registered, follow these steps to unregister, rebuild, and register again:
+### Re-register the DLL (when already registered)
+## If the DLL is already registered, follow these steps to unregister, rebuild, and register again:
 ```
 regsvr32 /u x64\Release\IconHandlerDll.dll
 taskkill /f /im explorer.exe
