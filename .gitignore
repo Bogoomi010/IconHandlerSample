@@ -1,0 +1,55 @@
+# Build output
+*.obj
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.iobj
+*.ipdb
+
+# Build folders
+[Bb]uild*/
+[Oo]ut*/
+[xX]64/
+[xX]86/
+Release*/
+Debug*/
+ipch/
+*.log
+
+# VS user-specific files
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.VC.db
+*.opensdf
+*.tlog
+*.lastbuildstate
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+*.pch
+*.ncb
+*.log
+
+# Visual Studio specific folders
+.vs/
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Installer build output
+*.msi
+*.cab
+
+# Crash dumps
+*.mdmp
