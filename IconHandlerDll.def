@@ -1,0 +1,7 @@
+LIBRARY      "IconHandlerDll"
+
+EXPORTS
+    DllCanUnloadNow
+    DllGetClassObject
+    DllRegisterServer
+    DllUnregisterServer

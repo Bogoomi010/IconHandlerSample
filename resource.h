@@ -1,0 +1,3 @@
+#define IDI_ICON1 101
+#define IDI_ICON_XLS 102
+#define IDI_ICON_PDF 103

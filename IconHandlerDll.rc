@@ -1,0 +1,5 @@
+#include "resource.h"
+
+IDI_ICON1      ICON "ic_crypto_auto.ico"
+IDI_ICON_XLS   ICON "ic_crypto_auto_xls.ico"
+IDI_ICON_PDF   ICON "ic_crypto_auto_pdf.ico"
