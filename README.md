@@ -1,6 +1,6 @@
 # 🧩 IconHandlerDll - Windows Shell Icon Handler
 
-This DLL provides custom icons for specific file extensions via Windows Shell integration.
+This DLL is COM DLL. provides custom icons for specific file extensions via Windows Shell integration.
 
 ---
 
